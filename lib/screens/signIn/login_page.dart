@@ -18,7 +18,7 @@ class _LoginPageState extends State<LoginPage> {
             mainAxisSize: MainAxisSize.max,
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Image(image: AssetImage("assets/TwineLogo.png"), height: 250.0),
+              Image(image: AssetImage("assets/new_twine.png"), height: 250.0),
               SizedBox(height: 50),
               _signInButton(),
             ],

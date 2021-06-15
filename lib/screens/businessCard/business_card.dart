@@ -33,16 +33,16 @@ class BusinessCard extends StatelessWidget {
                         ),
                         SizedBox(height: 10),
                         Text(
-                          "App & Web Developer",
+                          "Web Developer",
                           style: TextStyle(fontSize: 20),
                         ),
                         SizedBox(height: 30),
                         Text(
-                          "MyEmail@email.com",
+                          "JeremyRicahrds@gmail.com",
                           style: TextStyle(fontSize: 20),
                         ),
                         Text(
-                          "(999)-999-9999",
+                          "(999)-999-999",
                           style: TextStyle(fontSize: 20),
                         ),
                         SizedBox(height: 10),
@@ -78,7 +78,7 @@ class BusinessCard extends StatelessWidget {
                   child: Padding(
                     padding: EdgeInsets.all(5),
                     child: CircleAvatar(
-                      backgroundImage: AssetImage("assets/profile.jpeg"),
+                      backgroundImage: AssetImage("assets/profile2.jpeg"),
                       radius: 50,
                     ),
                   ),

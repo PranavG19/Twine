@@ -51,12 +51,12 @@ class Profile extends StatelessWidget {
                 ),
                 SizedBox(height: 15),
                 Text(
-                  "Student at River Hill High School",
+                  "Student at UMD",
                   style: TextStyle(fontSize: 18),
                 ),
                 SizedBox(height: 5),
                 Text(
-                  "App & Web Developer",
+                  "Web Developer",
                   style: TextStyle(fontSize: 18),
                 ),
                 SizedBox(height: 30),
